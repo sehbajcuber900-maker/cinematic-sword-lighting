@@ -1,10 +1,10 @@
-#Cinematic Sword Lighting — Blender 3D Project
+# Cinematic Sword Lighting — Blender 3D Project
 
-![Cinematic Sword Render](Katana.PNG)
+(Katana.PNG)
 
 A cinematic 3D sword project created in Blender, focused on dramatic lighting, realistic materials, composition, and atmospheric rendering.
 
-##Project Focus
+## Project Focus
 
 - 3D modeling
 - Material creation
@@ -14,20 +14,20 @@ A cinematic 3D sword project created in Blender, focused on dramatic lighting, r
 - Product-style rendering
 - Atmospheric presentation
 
-##Lighting
+## Lighting
 
 The scene uses a dark environment with controlled lighting to reveal selected parts of the sword while maintaining a dramatic cinematic appearance.
 
-##Software
+## Software
 
 - Blender
 
-##Files
+## Files
 
 - `Cinematic_Sword_Lighting.blend` — Blender source project
 - `Cinematic_Sword_Render.PNG` — Final render
 
-## 👤 Author
+## Author
 
 **Gursehbaj Singh**
 
