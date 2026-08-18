@@ -1,6 +1,6 @@
 # Cinematic Sword Lighting — Blender 3D Project
 
-(Katana.PNG)
+<img width="428" height="762" alt="katana picture" src="https://github.com/user-attachments/assets/1ea301bb-672c-4356-9ffa-4889018bbd28" />
 
 A cinematic 3D sword project created in Blender, focused on dramatic lighting, realistic materials, composition, and atmospheric rendering.
 
