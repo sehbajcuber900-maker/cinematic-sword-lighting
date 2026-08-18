@@ -24,8 +24,8 @@ The scene uses a dark environment with controlled lighting to reveal selected pa
 
 ## Files
 
-- `Cinematic_Sword_Lighting.blend` — Blender source project
-- `Cinematic_Sword_Render.PNG` — Final render
+- `Katana.blend` — Blender source project
+- `katana picture.PNG` — Final render
 
 ## Author
 
